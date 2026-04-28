@@ -130,6 +130,7 @@ entries:
   - f9f66e5ce2d0
   - fac51f39401f
   - cc8c561a2446
+  - a11d906dfecc
 aliases:
   - plot_faces_decomposition-xorq_dict_pos_transformed
   - plot_lda_qda-xorq_qda_shared_preds
