@@ -266,5 +266,4 @@ aliases:
   - plot_classifier_comparison-xorq_moons_random_forest_preds
   - plot_mlp_alpha-xorq_linearly_alpha1000_preds
   - plot_time_series_lagged_features-xorq_hgbr_preds
-  - foo
   - bar
